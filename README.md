@@ -33,7 +33,7 @@
 [![LinkedId](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=fff&color=23272d)](https://www.linkedin.com/in/nahuel-developer/)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=fff&color=23272d)](https://github.com/Nahuel-DevOne)
 
-[<img align="left" alt="Nahuel-DevOne" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]: https://nahuel-devone.github.io/portfolio/
+[website]: https://https://nahuel-devone.github.io/portfolio/
 
 **Check the Repositories and don't forget to give a star.** 👇
 
