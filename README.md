@@ -44,7 +44,7 @@ idea para la presentación:
 <p align="center"> (Open for Hiring)</p>
 
 All inbuilt themes :-
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, github_dark
 
 -->
 
@@ -53,7 +53,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 ### *I am a front-end developer and math teacher, studying to be a full stack web developer.*
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuel-devone&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuel-devone&show_icons=true&theme=github_dark)
 
 ## Skills
 
