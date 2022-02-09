@@ -1,6 +1,6 @@
-## Hello world 👋
-
 <!--
+
+## Hello world 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -48,7 +48,8 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 -->
 
-
+<h1 align="center"> Hello world 👋 </h1>
+<p align="center"> (Open for Hiring)</p>
 
 
 ### *I am a front-end developer and math teacher, studying to be a full stack web developer.*
