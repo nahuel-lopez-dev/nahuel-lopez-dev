@@ -25,3 +25,15 @@
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+
+
+📫 How to reach me:
+
+[<img align="left" alt="Nahuel-DevOne | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/nahuel-developer/
+
+**Check the Repositories and don't forget to give a star.** 👇
+
+:star: From [Nahuel-DevOne](https://github.com/Nahuel-DevOne)
+
