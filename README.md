@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world 👋
 
 <!--
 
@@ -13,6 +13,8 @@
 -->
 
 ### *I am a front-end developer and math teacher, studying to be a full stack web developer.*
+
+## Skills
 
 [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/Quananhle "Visual Studio")](https://github.com/Quananhle)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev)
@@ -33,9 +35,10 @@
 [![LinkedId](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=fff&color=23272d)](https://www.linkedin.com/in/nahuel-developer/)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=fff&color=23272d)](https://github.com/Nahuel-DevOne)
 
-[website]: https://https://nahuel-devone.github.io/portfolio/
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://https://nahuel-devone.github.io/portfolio/)
 
 **Check the Repositories and don't forget to give a star.** 👇
 
 :star: From [Nahuel-DevOne](https://github.com/Nahuel-DevOne)
+
 
