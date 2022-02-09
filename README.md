@@ -35,10 +35,21 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 
+idea para la presentación:
+
+<h1 align="center"> Hello world 👋 </h1>
+<div align="center">
+  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+</div>
+<p align="center"> (Open for Hiring)</p>
+
 All inbuilt themes :-
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
 -->
+
+
+
 
 ### *I am a front-end developer and math teacher, studying to be a full stack web developer.*
 
