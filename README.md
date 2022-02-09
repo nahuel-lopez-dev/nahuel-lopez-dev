@@ -12,6 +12,7 @@
 - ⚡ Fun fact: ...
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adamalston)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
+[![Contact Me](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=Mail.Ru&logoColor=fff&color=23272d)](mailto:nahuel.developer1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
 [![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
@@ -44,17 +45,17 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev)
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev)
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+[![Git](https://img.shields.io/badge/-Git-23272d?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![GitHub](https://img.shields.io/badge/-GitHub-23272d?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-23272d?style=flat&logo=javascript&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev)
+<img src="https://img.shields.io/badge/-React-23272d?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 
 
 📫 How to reach me:
 
-[![Contact Me](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=Mail.Ru&logoColor=fff&color=23272d)](mailto:nahue.developer1@gmail.com)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahuel.developer1@gmail.com)
 [![LinkedId](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=fff&color=0077B5)](https://www.linkedin.com/in/nahuel-developer/)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=fff&color=grey)](https://github.com/Nahuel-DevOne)
 
@@ -63,6 +64,5 @@
 
 :star: From [Nahuel-DevOne](https://github.com/Nahuel-DevOne)
 
-http://ForTheBadge.com/images/badges/built-with-love.svg
 
 
