@@ -47,9 +47,14 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Nahuel-Devone/)
 
+
+[![Forks][forks-shield]][forks-url]
+
 <!--Contador de visitas-->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nahuel-devone&label=Profile%20views&color=blue&style=plastic" alt="nahuel-devone" /> </p>
 
-
 ***************************************************************
-
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[forks-shield]: https://img.shields.io/github/forks/nahuel-devone/ReadMeTemplate?style=for-the-badge
+[forks-url]: https://github.com/nahuel-devone/ReadMeTemplate/network/members
