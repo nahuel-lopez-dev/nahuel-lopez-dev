@@ -1,25 +1,6 @@
 <!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-idea para la presentación, armar una imagen personalizada como esta:
-
-<h1 align="center"> Hello world 👋 </h1>
-<div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
-</div>
-<p align="center"> (Open for Hiring)</p>
-
 All inbuilt themes :-
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, github_dark
-
 -->
 
 <h1 align="center"> Hello world 👋, I'm Nahuel </h1>
@@ -29,13 +10,15 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 ### *I'm from Buenos Aires (Argentina) and I am a front-end developer and math teacher, studying to be a full stack web developer.*
 
-🌱 I’m currently mastering my skills in Javascript  
-👯 I’m looking to collaborate on Javascript projects
+- 🌱 I’m currently mastering my skills in Javascript  
+- 👯 I’m looking to collaborate on Javascript projects
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuel-devone&show_icons=true&theme=github_dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nahuel-devone&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuel-devone&layout=compact&theme=github_dark&hide_border=true)](https://github.com/nahuel-devone)
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
 ## Skills
@@ -58,15 +41,11 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 [![LinkedId](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=fff&color=0077B5)](https://www.linkedin.com/in/nahuel-developer/)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=fff&color=grey)](https://github.com/Nahuel-DevOne)
 
-
-
 ## **Check the Repositories and don't forget to give a star** ⬇️
-
 
 :star: From [Nahuel-DevOne](https://github.com/Nahuel-DevOne)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Nahuel-Devone/)
-
 
 <!--Contador de visitas-->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nahuel-devone&label=Profile%20views&color=blue&style=plastic" alt="nahuel-devone" /> </p>
