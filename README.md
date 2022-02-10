@@ -48,7 +48,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 -->
 
-<h1 align="center"> Hello world 👋 </h1>
+<h1 align="center"> Hello world 👋, I'm Nahuel </h1>
 <p align="center"> (Open for Hiring)</p>
 
 
