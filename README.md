@@ -86,7 +86,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 :star: From [Nahuel-DevOne](https://github.com/Nahuel-DevOne)
 
 <!--Contador de visitas-->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nahuel-devone&label=Profile%20views&color=00b3ff&style=plastic" alt="nahuel-devone" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nahuel-devone&label=Profile%20views&color=blue&style=plastic" alt="nahuel-devone" /> </p>
 
 
 
