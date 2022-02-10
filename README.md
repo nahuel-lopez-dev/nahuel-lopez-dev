@@ -51,6 +51,8 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 <h1 align="center"> Hello world 👋, I'm Nahuel </h1>
 <p align="center"> (Open for Hiring)</p>
 
+***************************************************************
+
 
 ### *I'm from Buenos Aires (Argentina) and I am a front-end developer and math teacher, studying to be a full stack web developer.*
 
@@ -74,19 +76,25 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 
-📫 How to reach me:
+## 📫 How to reach me:
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahuel.developer1@gmail.com)
 [![LinkedId](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=fff&color=0077B5)](https://www.linkedin.com/in/nahuel-developer/)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=fff&color=grey)](https://github.com/Nahuel-DevOne)
 
 
-**Check the Repositories and don't forget to give a star** ⬇️ 
+
+## **Check the Repositories and don't forget to give a star** ⬇️
+
 
 :star: From [Nahuel-DevOne](https://github.com/Nahuel-DevOne)
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Nahuel-Devone/)
+
 
 <!--Contador de visitas-->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nahuel-devone&label=Profile%20views&color=blue&style=plastic" alt="nahuel-devone" /> </p>
 
 
+***************************************************************
 
