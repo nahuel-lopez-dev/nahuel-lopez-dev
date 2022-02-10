@@ -55,6 +55,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ### *I am a front-end developer and math teacher, studying to be a full stack web developer.*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuel-devone&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuel-devone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 
