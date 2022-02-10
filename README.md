@@ -81,7 +81,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 [![GitHub Profile](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=fff&color=grey)](https://github.com/Nahuel-DevOne)
 
 
-**Check the Repositories and don't forget to give a star.** 👇
+**Check the Repositories and don't forget to give a star** ⬇️ 
 
 :star: From [Nahuel-DevOne](https://github.com/Nahuel-DevOne)
 
