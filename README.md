@@ -30,17 +30,17 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 ## 🛠 Tech Stack:
 
-[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://developer.mozilla.org/es/docs/Glossary/HTML5)](https://developer.mozilla.org/es/docs/Glossary/HTML5)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://developer.mozilla.org/es/docs/Web/CSS)](https://developer.mozilla.org/es/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://getbootstrap.com/)](https://getbootstrap.com/)
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-[![Git](https://img.shields.io/badge/-Git-23272d?style=flat&logo=git&link=https://git-scm.com/)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-23272d?style=flat&logo=github&link=https://github.com/Nahuel-DevOne)](https://github.com/Nahuel-DevOne)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-23272d?style=flat&logo=javascript&link=https://developer.mozilla.org/es/docs/Web/JavaScript)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-<img src="https://img.shields.io/badge/-React-23272d?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+[![Visual Studio](https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://developer.mozilla.org/es/docs/Glossary/HTML5)](https://developer.mozilla.org/es/docs/Glossary/HTML5)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&link=https://developer.mozilla.org/es/docs/Web/CSS)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&link=https://getbootstrap.com/)](https://getbootstrap.com/)
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=sass&logoColor=ffffff">
+[![Git](https://img.shields.io/badge/-Git-23272d?style=for-the-badge&logo=git&link=https://git-scm.com/)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-23272d?style=for-the-badge&logo=github&link=https://github.com/Nahuel-DevOne)](https://github.com/Nahuel-DevOne)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-23272d?style=for-the-badge&logo=javascript&link=https://developer.mozilla.org/es/docs/Web/JavaScript)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+<img src="https://img.shields.io/badge/-React-23272d?style=for-the-badge&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Firebase-23272d?style=for-the-badge&logo=firebase&logoColor=yellow">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=Node.js&logoColor=white">
 
 <!-- alternative: How to reach me -->
 ## 📫 Connect with Me:
