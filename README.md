@@ -48,7 +48,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahuel.developer1@gmail.com)
 [![LinkedId](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=fff&color=0077B5)](https://www.linkedin.com/in/nahuel-developer/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-informational?style=for-the-badge&logo=Portfolio&logoColor=fff&color=23272d)](https://nahuel-devone.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-23272d?style=for-the-badge&logo=ruby&logoColor=white)](https://nahuel-devone.github.io/portfolio/)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=fff&color=grey)](https://github.com/Nahuel-DevOne)
 
 ## **Check the Repositories and don't forget to give a star** ⬇️
