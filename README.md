@@ -44,13 +44,13 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <!-- alternative: How to reach me -->
 ## 📫 Connect with Me:
-💬  Feel free to reach out to me
+💬 Feel free to reach out to me
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahuel.developer1@gmail.com)
 [![LinkedId](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=fff&color=0077B5)](https://www.linkedin.com/in/nahuel-developer/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-23272d?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://nahuel-devone.github.io/portfolio/)
 
-## **Check the Repositories and don't forget to give a star** ⬇️
+## ✔️ Check the Repositories and don't forget to give a star ⬇️
 
 :star: From [Nahuel-DevOne](https://github.com/Nahuel-DevOne)
 
