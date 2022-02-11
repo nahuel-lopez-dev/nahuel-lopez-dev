@@ -59,6 +59,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 [![Forks][forks-shield]][forks-url]
 
+<h3 align="right"> 🔥 </h3>
 <!--Contador de visitas-->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nahuel-devone&label=Profile%20views&color=blue&style=plastic" alt="nahuel-devone" /> </p>
 
