@@ -54,12 +54,11 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 :star: From [Nahuel-DevOne](https://github.com/Nahuel-DevOne)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Nahuel-Devone/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Nahuel-Devone/)  
 
-<div align="center">
-  
-  [![Forks][forks-shield]][forks-url] 
-  
+[![Forks][forks-shield]][forks-url]
+
+<div align="center"> 
   <!--Contador de visitas-->
   <img src="https://komarev.com/ghpvc/?username=nahuel-devone&label=Profile%20views&color=blue&style=plastic" alt="nahuel-devone" />
 
@@ -69,5 +68,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ***************************************************************
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/nahuel-devone/ReadMeTemplate?style=flat
-[forks-url]: https://github.com/nahuel-devone/ReadMeTemplate/network/members
+
+[forks-shield]:https://img.shields.io/github/forks/Nahuel-DevOne/ReadMeTemplate?style=flat
+
+[forks-url]:https://github.com/Nahuel-DevOne/ReadMeTemplate/network/members
