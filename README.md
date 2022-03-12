@@ -15,9 +15,10 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
     <img src="./insignia-js.png" alt="Logo" width="110">
   </a>
 </div>
+<p align="center">{Open for hiring}</p>
 <!--
   <h1 align="center"> Hello world 👋, I'm Nahuel </h1>
-  <p align="center">(Open for Hiring)</p>
+  <p align="center">(Open for hiring)</p>
 -->
 
 ## 👨🏻‍💻 About me:
