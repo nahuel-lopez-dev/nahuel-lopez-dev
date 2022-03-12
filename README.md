@@ -4,15 +4,21 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 -->
 
 <div align="center">
+  <img src="./github-header-image.png" alt="Logo" width="1150">
+</div>  
+
+<div align="center">
   <a href="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644515319BADGE_2.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_esp&utm_medium=email&utm_source=RD+Station">
     <img src="./insignia-github.png" alt="Logo" width="150">
   </a>
   <a href="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644516322badge.png?utm_campaign=alura_latam_-_challenge_email_projeto_2_esp&utm_medium=email&utm_source=RD+Station">
     <img src="./insignia-js.png" alt="Logo" width="150">
   </a>
-</div>  
+</div>
+<!--
   <h1 align="center"> Hello world 👋, I'm Nahuel </h1>
   <p align="center">(Open for Hiring)</p>
+-->
 
 
 ***************************************************************
