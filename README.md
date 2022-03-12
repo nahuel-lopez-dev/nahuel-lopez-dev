@@ -20,9 +20,6 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
   <p align="center">(Open for Hiring)</p>
 -->
 
-
-***************************************************************
-
 ## 👨🏻‍💻 About me:
 
 ### *I'm from Buenos Aires (Argentina) and I am a front-end developer and math teacher, studying to be a full stack web developer.*
