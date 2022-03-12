@@ -9,10 +9,10 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <div align="center">
   <a href="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644515319BADGE_2.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_esp&utm_medium=email&utm_source=RD+Station">
-    <img src="./insignia-github.png" alt="Logo" width="150">
+    <img src="./insignia-github.png" alt="Logo" width="110">
   </a>
   <a href="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644516322badge.png?utm_campaign=alura_latam_-_challenge_email_projeto_2_esp&utm_medium=email&utm_source=RD+Station">
-    <img src="./insignia-js.png" alt="Logo" width="150">
+    <img src="./insignia-js.png" alt="Logo" width="110">
   </a>
 </div>
 <!--
