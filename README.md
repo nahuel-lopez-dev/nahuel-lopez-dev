@@ -57,6 +57,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 <img src="https://img.shields.io/badge/-React-23272d?style=for-the-badge&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Firebase-23272d?style=for-the-badge&logo=firebase&logoColor=yellow">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Express.js-grey?style=for-the-badge&logo=express&logoColor=white">
 
 <!-- alternative: How to reach me -->
 ## 📫 Connect with Me:
