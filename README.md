@@ -58,6 +58,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 [![Git](https://img.shields.io/badge/-Git-23272d?style=for-the-badge&logo=git&link=https://git-scm.com/)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-23272d?style=for-the-badge&logo=github&link=https://github.com/Nahuel-DevOne)](https://github.com/Nahuel-DevOne)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-23272d?style=for-the-badge&logo=javascript&link=https://developer.mozilla.org/es/docs/Web/JavaScript)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=for-the-badge&logo=jQuery&logoColor=0769AD)
 <img src="https://img.shields.io/badge/-React-23272d?style=for-the-badge&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Firebase-23272d?style=for-the-badge&logo=firebase&logoColor=yellow">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=Node.js&logoColor=white">
