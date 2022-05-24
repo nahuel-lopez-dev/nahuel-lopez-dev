@@ -50,6 +50,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ## 🛠 Tech Stack:
 
 [![Visual Studio](https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://developer.mozilla.org/es/docs/Glossary/HTML5)](https://developer.mozilla.org/es/docs/Glossary/HTML5)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&link=https://developer.mozilla.org/es/docs/Web/CSS)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&link=https://getbootstrap.com/)](https://getbootstrap.com/)
@@ -61,6 +62,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 <img src="https://img.shields.io/badge/-Firebase-23272d?style=for-the-badge&logo=firebase&logoColor=yellow">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Express.js-grey?style=for-the-badge&logo=express&logoColor=white">
+
 
 <!-- alternative: How to reach me -->
 ## 📫 Connect with Me:
