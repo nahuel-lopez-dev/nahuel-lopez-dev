@@ -29,7 +29,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 ## 👨🏻‍💻 About me:
 
-### *I'm from Buenos Aires (Argentina) and I am a front-end developer and math teacher, studying to be a full stack web developer.*
+### *I'm from Buenos Aires (Argentina) and I am a MERN Full Stack Developer, JavaScript tutor, and math teacher, .*
 
 - 💡  I like to explore new technologies
 - 🔭 I’m currently working on Web Development
@@ -49,20 +49,52 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 ## 🛠 Tech Stack:
 
-[![Visual Studio](https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
+<!-- [![Visual Studio](https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://developer.mozilla.org/es/docs/Glossary/HTML5)](https://developer.mozilla.org/es/docs/Glossary/HTML5)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&link=https://developer.mozilla.org/es/docs/Web/CSS)](https://developer.mozilla.org/es/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&link=https://getbootstrap.com/)](https://getbootstrap.com/)
+[![CSS3](https://img.shields.io/badge/-CSS3-darkblue?style=for-the-badge&logo=css3&link=https://developer.mozilla.org/es/docs/Web/CSS)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-lightgrey?style=for-the-badge&logo=bootstrap&link=https://getbootstrap.com/)](https://getbootstrap.com/)
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=sass&logoColor=ffffff">
+
 [![Git](https://img.shields.io/badge/-Git-23272d?style=for-the-badge&logo=git&link=https://git-scm.com/)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-23272d?style=for-the-badge&logo=github&link=https://github.com/Nahuel-DevOne)](https://github.com/Nahuel-DevOne)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-23272d?style=for-the-badge&logo=javascript&link=https://developer.mozilla.org/es/docs/Web/JavaScript)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=for-the-badge&logo=jQuery&logoColor=0769AD)
+![jQuery](https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&logo=jQuery&logoColor=white)
 <img src="https://img.shields.io/badge/-React-23272d?style=for-the-badge&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Firebase-23272d?style=for-the-badge&logo=firebase&logoColor=yellow">
+
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Express.js-grey?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/-MongoDB-3C873A?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/-MySQL-23272d?style=for-the-badge&logo=MySQL&logoColor=yellow">
+<img src="https://img.shields.io/badge/-PostgreSQL-lightgrey?style=for-the-badge&logo=PostgreSQL&logoColor=darkblue"> -->
+
+<!-- Visual Studio Code (VSC) -->
+[![Visual Studio](https://img.shields.io/badge/-VSC-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)<!-- Git -->
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)<!-- GitHub -->
+[![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&link=https://github.com/Nahuel-DevOne)](https://github.com/Nahuel-DevOne)<!-- HTML -->
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://developer.mozilla.org/es/docs/Glossary/HTML5)](https://developer.mozilla.org/es/docs/Glossary/HTML5)<!-- CSS -->
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://developer.mozilla.org/es/docs/Web/CSS)](https://developer.mozilla.org/es/docs/Web/CSS)<!-- SASS -->
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"><!-- Bootstrap -->
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://getbootstrap.com/)](https://getbootstrap.com/)
+
+<!-- JavaScript -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)<!-- Typescript -->
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)<!-- React.js -->
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)<!-- Firebase -->
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Firebase&logoColor=FFA611)
+
+<!-- Node.js -->
+![Node.js](https://img.shields.io/badge/-Node.js-darkgreen?style=flat&logo=node.js&logoColor=white)<!-- Express -->
+![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=flat&logo=Express&logoColor=white)<!-- EJS -->
+![EJS](https://img.shields.io/badge/-<%=EJS%>-brown?style=flat&logo=redhat&logoColor=white)<!-- pug -->
+![pug](https://img.shields.io/badge/-pug-brown?style=flat&logo=pug&logoColor=white)<!-- Handlebars -->
+![Handlebars](https://img.shields.io/badge/-Handlebars-brown?style=flat&logo=handlebars.js&logoColor=white)
+
+<!-- MongoDB -->
+![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat&logo=mongoDB&logoColor=white)<!-- MySQL -->
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=FFA611)<!-- PostgreSQL -->
+<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightgrey?style=flat&logo=PostgreSQL&logoColor=Darkblue) -->
 
 
 <!-- alternative: How to reach me -->
