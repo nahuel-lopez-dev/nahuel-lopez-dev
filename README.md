@@ -67,14 +67,15 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 <!-- Node.js -->
 ![Node.js](https://img.shields.io/badge/-Node.js-darkgreen?style=flat&logo=node.js&logoColor=white)<!-- Express -->
 ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=flat&logo=Express&logoColor=white)<!-- EJS -->
-![EJS](https://img.shields.io/badge/-<%=EJS%>-brown?style=flat)<!-- pug -->
-![pug](https://img.shields.io/badge/-pug-brown?style=flat&logo=pug&logoColor=white)<!-- Handlebars -->
-![Handlebars](https://img.shields.io/badge/-Handlebars-brown?style=flat&logo=handlebars.js&logoColor=white)
+![EJS](https://img.shields.io/badge/-<%=EJS%>-fff?style=flat)<!-- pug -->
+![pug](https://img.shields.io/badge/-pug-FFF?style=flat&logo=pug&logoColor=A86454)<!-- Handlebars -->
+![Handlebars](https://img.shields.io/badge/-Handlebars-fff?style=flat&logo=handlebars.js&logoColor=A86454)
 
 <!-- MongoDB -->
 ![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat&logo=mongoDB&logoColor=white)<!-- MySQL -->
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=FFA611)<!-- PostgreSQL -->
 <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=PostgreSQL&logoColor=white) -->
+<!-- ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) -->
 
 
 <!-- alternative: How to reach me -->
@@ -84,6 +85,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahuel.developer1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=fff&color=0077B5)](https://www.linkedin.com/in/nahuel-developer/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-23272d?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://nahuel-devone.github.io/portfolio/)
+[![Linktree](https://img.shields.io/badge/-Linktre-fff?style=for-the-badge&logo=linktree&logoColor=1de9b6)](https://linktr.ee/nahuel.lopez)
 
 ## ✔️ Check the Repositories and don't forget to give a star ⬇️
 
