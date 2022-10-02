@@ -67,7 +67,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 <!-- Node.js -->
 ![Node.js](https://img.shields.io/badge/-Node.js-darkgreen?style=flat&logo=node.js&logoColor=white)<!-- Express -->
 ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=flat&logo=Express&logoColor=white)<!-- EJS -->
-![EJS](https://img.shields.io/badge/-<%=EJS%>-fff?style=flat)<!-- pug -->
+![EJS](https://img.shields.io/badge/-EJS-fff?style=flat)<!-- pug -->
 ![pug](https://img.shields.io/badge/-pug-FFF?style=flat&logo=pug&logoColor=A86454)<!-- Handlebars -->
 ![Handlebars](https://img.shields.io/badge/-Handlebars-fff?style=flat&logo=handlebars.js&logoColor=A86454)
 
@@ -82,10 +82,10 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ## 📫 Connect with Me:
 💬 Feel free to reach out to me
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahuel.developer1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=fff&color=0077B5)](https://www.linkedin.com/in/nahuel-developer/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-23272d?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://nahuel-devone.github.io/portfolio/)
-[![Linktree](https://img.shields.io/badge/-Linktre-fff?style=for-the-badge&logo=linktree&logoColor=1de9b6)](https://linktr.ee/nahuel.lopez)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nahuel.developer1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=fff&color=0077B5)](https://www.linkedin.com/in/nahuel-developer/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-23272d?style=flat&logo=stackoverflow&logoColor=white)](https://nahuel-devone.github.io/portfolio/)
+[![Linktree](https://img.shields.io/badge/-Linktre-lightgrey?style=flat&logo=linktree&logoColor=1de9b6)](https://linktr.ee/nahuel.lopez)
 
 ## ✔️ Check the Repositories and don't forget to give a star ⬇️
 
