@@ -51,41 +51,44 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <!-- Visual Studio Code (VSC) -->
 [![Visual Studio](https://img.shields.io/badge/-VSCODE-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)<!-- Git -->
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)<!-- GitHub -->
-[![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&link=https://github.com/Nahuel-DevOne)](https://github.com/Nahuel-DevOne)<!-- HTML -->
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://developer.mozilla.org/es/docs/Glossary/HTML5)](https://developer.mozilla.org/es/docs/Glossary/HTML5)<!-- CSS -->
+![Git](https://img.shields.io/badge/-Git-23272d?style=flat&logo=git&logoColor=F05032)<!-- GitHub -->
+[![GitHub](https://img.shields.io/badge/-GitHub-23272d?style=flat&logo=github&link=https://github.com/Nahuel-DevOne)](https://github.com/Nahuel-DevOne)
+<!-- HTML -->
+[![HTML5](https://img.shields.io/badge/-HTML5-D14836?style=flat&logo=html5&logoColor=white&link=https://developer.mozilla.org/es/docs/Glossary/HTML5)](https://developer.mozilla.org/es/docs/Glossary/HTML5)<!-- CSS -->
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://developer.mozilla.org/es/docs/Web/CSS)](https://developer.mozilla.org/es/docs/Web/CSS)<!-- SASS -->
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"><!-- Bootstrap -->
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://getbootstrap.com/)](https://getbootstrap.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://getbootstrap.com/)](https://getbootstrap.com/)<!-- Bootstrap -->
+[![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-darkblue?style=flat&logo=tailwindcss&link=https://getbootstrap.com/)](https://tailwindcss.com/)
 
 <!-- JavaScript -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript)<!-- Typescript -->
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)<!-- React.js -->
+![TypeScript](https://img.shields.io/badge/-TypeScript-323330?style=flat&logo=typescript&logoColor=007ACC)<!-- React.js -->
 ![React](https://img.shields.io/badge/-React-323330?style=flat&logo=React&logoColor=61DAFB)<!-- Firebase -->
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Firebase&logoColor=FFA611)
+![Firebase](https://img.shields.io/badge/-Firebase-323330?style=flat&logo=Firebase&logoColor=FFA611)
 
 <!-- Node.js -->
 ![Node.js](https://img.shields.io/badge/-Node.js-darkgreen?style=flat&logo=node.js&logoColor=white)<!-- Express -->
-![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=flat&logo=Express&logoColor=white)<!-- EJS -->
+![Express.js](https://img.shields.io/badge/-Express-lightgrey?style=flat&logo=Express&logoColor=white)<!-- EJS -->
 ![EJS](https://img.shields.io/badge/-EJS-fff?style=flat)<!-- pug -->
 ![pug](https://img.shields.io/badge/-pug-FFF?style=flat&logo=pug&logoColor=A86454)<!-- Handlebars -->
 ![Handlebars](https://img.shields.io/badge/-Handlebars-fff?style=flat&logo=handlebars.js&logoColor=A86454)
 
 <!-- MongoDB -->
-![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat&logo=mongoDB&logoColor=white)<!-- MySQL -->
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=FFA611)<!-- PostgreSQL -->
+![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat&logo=mongoDB&logoColor=lightgreen)<!-- MongoDB -->
+![Mongoose](https://img.shields.io/badge/-Mongoose-A86454?style=flat&logo=mongoose&logoColor=A86454)<!-- MySQL -->
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=FFA611)<!-- Sequelize -->
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white)<!-- PostgreSQL -->
 <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=PostgreSQL&logoColor=white) -->
-<!-- ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) -->
 
 
 <!-- alternative: How to reach me -->
 ## 📫 Connect with Me:
 💬 Feel free to reach out to me
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nahuel.developer1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=fff&color=0077B5)](https://www.linkedin.com/in/nahuel-developer/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-23272d?style=flat&logo=stackoverflow&logoColor=white)](https://nahuel-devone.github.io/portfolio/)
-[![Linktree](https://img.shields.io/badge/-Linktree-lightgrey?style=flat&logo=linktree&logoColor=1de9b6)](https://linktr.ee/nahuel.lopez)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahuel.developer1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=fff&color=0077B5)](https://www.linkedin.com/in/nahuel-developer/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-white?style=for-the-badge&logo=stackoverflow&logoColor=black)](https://nahuel-devone.github.io/portfolio/)
+[![Linktree](https://img.shields.io/badge/-Linktree-323330?style=for-the-badge&logo=linktree&logoColor=1de9b6)](https://linktr.ee/nahuel.lopez)
 
 ## ✔️ Check the Repositories and don't forget to give a star ⬇️
 
