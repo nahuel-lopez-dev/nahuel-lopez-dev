@@ -21,7 +21,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
     <img src="./insignia-alura-geek.png" alt="Logo" width="110">
   </a>
 </div>
-<p align="center">{Open for hiring}</p>
+<p align="center"><strong>{Open for hiring}</strong></p>
 <!--
   <h1 align="center"> Hello world 👋, I'm Nahuel </h1>
   <p align="center">(Open for hiring)</p>
@@ -33,8 +33,8 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 - 💡 I like to explore new technologies
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently mastering my skills in Javascript  
-- 👯 I’m looking to collaborate on Javascript projects
+- 🌱 I’m currently mastering my skills in Javascript, TypeScript and Python  
+- 👯 I’m looking to collaborate on Javascript or Python projects
 
 ## `⚙️ GitHub Analytics:`
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuel-devone&show_icons=true&theme=github_dark)
