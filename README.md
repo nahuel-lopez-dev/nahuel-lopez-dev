@@ -28,13 +28,18 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 ## `👨🏻‍💻 About me:`
 
-### I'm from Buenos Aires (Argentina), and I'm a Full Stack MERN developer, Python developer, JavaScript tutor, and math teacher.
-### I am leveling up my stack, while learning other technologies for data analysis and Machine Learning. I seek to work in teams where I can apply my knowledge, and continue to grow constantly at a professional level.
+<div>
+  <h3>
+    I'm from Buenos Aires (Argentina), and I'm a Full Stack MERN developer, Python developer, JavaScript tutor, and math teacher.
+    <br>
+    I am leveling up my stack, while learning other technologies for data analysis and Machine Learning. I seek to work in teams where I can apply my knowledge, and continue to grow constantly at a professional level.
+  </h3>
+</div>
 
-- 💡 I like to explore `new technologies`
-- 🔭 I’m currently working on `Web Development`
-- 🌱 I’m currently mastering my skills in `Javascript`, `TypeScript` and `Python`  
-- 👯 I’m looking to collaborate on `Javascript or Python projects`
+- 💡 I like to explore *`new technologies`*
+- 🔭 I’m currently working on *`Web Development`*
+- 🌱 I’m currently mastering my skills in *`Javascript`*, *`TypeScript`* and *`Python`*  
+- 👯 I’m looking to collaborate on *`Javascript or Python projects`*
 
 ## `⚙️ GitHub Analytics:`
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuel-devone&show_icons=true&theme=github_dark)
