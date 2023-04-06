@@ -4,7 +4,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 -->
 
 <div align="center">
-  <img src="./portada-full-stack.png" alt="Logo" width="1150">
+  <img src="./portada-data-analyst-fs-stack.png" alt="Logo" width="1150">
 </div>  
 
 <div align="center">
