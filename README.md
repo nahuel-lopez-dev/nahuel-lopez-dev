@@ -22,19 +22,19 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
   </a>
 </div>
 <p align="center"><strong>{Open for hiring}</strong></p>
-<!--
+<!-- 
   <h1 align="center"> Hello world 👋, I'm Nahuel </h1>
-  <p align="center">(Open for hiring)</p>
--->
+  <p align="center">(Open for hiring)</p> -->  
 
 ## `👨🏻‍💻 About me:`
 
-### *I'm from Buenos Aires (Argentina) and I am a MERN Full Stack Developer, JavaScript tutor, and math teacher, .*
+### I'm from Buenos Aires (Argentina), and I'm a Full Stack MERN developer, Python developer, JavaScript tutor, and math teacher.
+### I am leveling up my stack, while learning other technologies for data analysis and Machine Learning. I seek to work in teams where I can apply my knowledge, and continue to grow constantly at a professional level.
 
-- 💡 I like to explore new technologies
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently mastering my skills in Javascript, TypeScript and Python  
-- 👯 I’m looking to collaborate on Javascript or Python projects
+- 💡 I like to explore `new technologies`
+- 🔭 I’m currently working on `Web Development`
+- 🌱 I’m currently mastering my skills in `Javascript`, `TypeScript` and `Python`  
+- 👯 I’m looking to collaborate on `Javascript or Python projects`
 
 ## `⚙️ GitHub Analytics:`
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuel-devone&show_icons=true&theme=github_dark)
@@ -117,7 +117,6 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 <div align="center"> 
   <!--Contador de visitas-->
   <img src="https://komarev.com/ghpvc/?username=nahuel-devone&label=Profile%20views&color=blue&style=plastic" alt="nahuel-devone" />
-
 </div>
  
 ***************************************************************
