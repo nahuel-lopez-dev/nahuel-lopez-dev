@@ -80,30 +80,33 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&logoColor=FFA611)
 
 ### Backend & Data Analysis:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=214564)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy&logoColor=55a6ca)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=white)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib&logoColor=white)\
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib&logoColor=white)&nbsp;
+![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn&logoColor=white)&nbsp;
+![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-05122A?style=flat&logo=scikit-learn&logoColor=white)\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=darkgreen)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&logoColor=lightgrey)&nbsp;
 ![EJS](https://img.shields.io/badge/-EJS-05122A?style=flat)&nbsp;
 ![pug](https://img.shields.io/badge/-pug-05122A?style=flat&logo=pug&logoColor=A86454)&nbsp;
 ![Handlebars](https://img.shields.io/badge/-Handlebars-05122A?style=flat&logo=handlebars.js&logoColor=A86454)
+<!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; -->
+<!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) -->
 
 ### Databases:
 
+![MySQL](https://img.shields.io/badge/-SQL:-05122A?style=flat&logo=sql&logoColor=FFA611)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=FFA611)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=316192)&nbsp;
+![Sequelize](https://img.shields.io/badge/Sequelize-05122A?style=flat&logo=Sequelize&logoColor=52B0E7)&nbsp;
+![NoSQL](https://img.shields.io/badge/-NoSQL:-05122A?style=flat&logo=NoSQL&logoColor=lightgreen)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB&logoColor=lightgreen)&nbsp;
 ![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose&logoColor=a43433)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=FFA611)&nbsp;
-![Sequelize](https://img.shields.io/badge/Sequelize-05122A?style=flat&logo=Sequelize&logoColor=52B0E7)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&logoColor=FFA611)
-<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=316192) -->
-
-<!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; -->
-<!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) -->
 
 <!-- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
