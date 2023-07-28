@@ -30,9 +30,9 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <div>
   <h3>
-    I'm from Buenos Aires (Argentina), and I'm a Full Stack MERN developer, Python Data Analyst, JavaScript tutor, and math teacher.
+    I'm from Buenos Aires (Argentina), and I'm a Full Stack JavaScript and Python Developer, Data Analyst, JavaScript Tutor, and Math Teacher.
     <br>
-    I am leveling up my stack, while learning other technologies for data analysis and Machine Learning. I seek to work in teams where I can apply my knowledge, and continue to grow constantly at a professional level.
+    My goal is to work in teams where I can apply my knowledge and make a career, to continue growing professionally while strengthening my stack and learning new technologies.
   </h3>
 </div>
 
@@ -122,7 +122,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahuel.developer1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=fff&color=0077B5)](https://www.linkedin.com/in/nahuel-developer/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-lightgray?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://nahuel-devone.github.io/portfolio/)
-[![Linktree](https://img.shields.io/badge/-Linktree-323330?style=for-the-badge&logo=linktree&logoColor=1de9b6)](https://linktr.ee/nahuel.lopez)
+[![Linktree](https://img.shields.io/badge/-Linktree-323330?style=for-the-badge&logo=linktree&logoColor=#41e45f)](https://linktr.ee/nahuel.lopez)
 
 ## `✔️ Check the Repositories and don't forget to give a star ⬇️`
 
