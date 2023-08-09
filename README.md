@@ -5,9 +5,15 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <div align="center">
   <img src="./portada-data-analyst-fs-stack.png" alt="Logo" width="1150">
-</div>  
+</div>
 
-<div align="center">
+<!-- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,typescript,react,nodejs,python,django" />
+  </a>
+</p> -->
+
+<!-- <div align="center">
   <a href="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644515319BADGE_2.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_esp&utm_medium=email&utm_source=RD+Station">
     <img src="./insignia-github.png" alt="Logo" width="110">
   </a>
@@ -20,8 +26,12 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
   <a href="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1650485464insignia.png?utm_campaign=alura_latam_-_challenge_email_projeto_4_esp&utm_medium=email&utm_source=RD+Station">
     <img src="./insignia-alura-geek.png" alt="Logo" width="110">
   </a>
-</div>
+</div> -->
 <p align="center"><strong>{Open for hiring}</strong></p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=7000&pause=1000&color=6785C1&repeat=false&width=435&lines=Hello+world!+I+am...+Iron+Man." alt="Typing SVG" /></a>
+</p>
 <!-- 
   <h1 align="center"> Hello world 👋, I'm Nahuel </h1>
   <p align="center">(Open for hiring)</p> -->  
@@ -58,7 +68,13 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ## `⚙️ I use daily:` 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuel-devone&layout=compact&theme=github_dark&hide_border=true)](https://github.com/nahuel-devone)
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp; 
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,typescript,react,nodejs,python,django,mysql,postgres,mongo" />
+  </a>
+</p>
+
+<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp; 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp;
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>&nbsp;
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp;
@@ -68,7 +84,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp; 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp; 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;  -->
 
 ## `🛠 Tech Stack:`
 ### Tools:
@@ -141,7 +157,9 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 :star: From [Nahuel-DevOne](https://github.com/Nahuel-DevOne)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Nahuel-Devone/)  
+Developed with 💙 by Nahuel `DevOne⚡`
+
+<!-- [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Nahuel-Devone/)   -->
 
 <div align="center"> 
   <!--Contador de visitas-->
