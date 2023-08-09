@@ -42,13 +42,18 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 - 👨🏻‍💻👩🏻‍💻 I’m looking to collaborate on *`Javascript or Python projects`*
 
 ## `📊 GitHub Analytics:`
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nahuel-DevOne?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nahuel-DevOne?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuel-devone&show_icons=true&theme=github_dark) -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nahuel-devone&theme=holi-theme&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Nahuel-DevOne&theme=holi-theme)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nahuel-DevOne&theme=dark)](https://git.io/streak-stats)
+
+<!--
+All inbuilt themes :-
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, github_dark
+-->
 
 ## `⚙️ I use daily:` 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuel-devone&layout=compact&theme=github_dark&hide_border=true)](https://github.com/nahuel-devone)
