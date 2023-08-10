@@ -1,49 +1,21 @@
-<!--
-All inbuilt themes :-
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, github_dark
--->
-
 <div align="center">
   <img src="./portada-data-analyst-fs-stack.png" alt="Logo" width="1150">
 </div>
 
-<!-- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,typescript,react,nodejs,python,django" />
-  </a>
-</p> -->
-
-<!-- <div align="center">
-  <a href="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644515319BADGE_2.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_esp&utm_medium=email&utm_source=RD+Station">
-    <img src="./insignia-github.png" alt="Logo" width="110">
-  </a>
-  <a href="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644516322badge.png?utm_campaign=alura_latam_-_challenge_email_projeto_2_esp&utm_medium=email&utm_source=RD+Station">
-    <img src="./insignia-js.png" alt="Logo" width="110">
-  </a>
-  <a href="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1645571154Insignia_3.png?utm_campaign=alura_latam_-_challenge_email_projeto_3_esp&utm_medium=email&utm_source=RD+Station">
-    <img src="./insignia-portafolio.png" alt="Logo" width="110">
-  </a>
-  <a href="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1650485464insignia.png?utm_campaign=alura_latam_-_challenge_email_projeto_4_esp&utm_medium=email&utm_source=RD+Station">
-    <img src="./insignia-alura-geek.png" alt="Logo" width="110">
-  </a>
-</div> -->
 <p align="center"><strong>{Open for hiring}</strong></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=7000&pause=1000&color=6785C1&repeat=false&width=435&lines=Hello+world!+I+am...+Iron+Man." alt="Typing SVG" /></a>
-</p>
-<!-- 
-  <h1 align="center"> Hello world 👋, I'm Nahuel </h1>
-  <p align="center">(Open for hiring)</p> -->  
+</p>  
 
 ## `👨🏻‍💻 About me:`
 
 <div>
-  <h3>
+  <p>
     I'm from Buenos Aires (Argentina), and I'm a Full Stack JavaScript and Python Developer, Data Analyst, JavaScript Tutor, and Math Teacher.
     <br>
     My goal is to work in teams where I can apply my knowledge and make a career, to continue growing professionally while strengthening my stack and learning new technologies.
-  </h3>
+  </p>
 </div>
 
 - 💡 I like to explore *`new technologies` and `solve problems`.*
@@ -53,10 +25,6 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 ## `📊 GitHub Analytics:`
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nahuel-DevOne?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuel-devone&show_icons=true&theme=github_dark) -->
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nahuel-devone&theme=holi-theme&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nahuel-DevOne&theme=dark)](https://git.io/streak-stats)
 
@@ -73,18 +41,6 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
     <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,typescript,react,nodejs,python,django,mysql,postgres,mongo" />
   </a>
 </p>
-
-<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp; 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp;
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>&nbsp;
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>&nbsp;
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&nbsp;
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp; 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;  -->
 
 ## `🛠 Tech Stack:`
 ### Tools:
@@ -153,13 +109,9 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 [![Portfolio](https://img.shields.io/badge/-Portfolio-lightgray?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://nahuel-devone.github.io/portfolio/)
 [![Linktree](https://img.shields.io/badge/-Linktree-323330?style=for-the-badge&logo=linktree&logoColor=#41e45f)](https://linktr.ee/nahuel.lopez)
 
-## `✔️ Check the Repositories and don't forget to give a star ⬇️`
+### `✔️ Check the Repositories and don't forget to give a star ⭐`
+Developed with 💙 by *Nahuel DevOne⚡*
 
-:star: From [Nahuel-DevOne](https://github.com/Nahuel-DevOne)
-
-Developed with 💙 by Nahuel `DevOne⚡`
-
-<!-- [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Nahuel-Devone/)   -->
 
 <div align="center"> 
   <!--Contador de visitas-->
