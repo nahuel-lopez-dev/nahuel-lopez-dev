@@ -38,7 +38,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,git,github,html,css,javascript,typescript,react,vite,nodejs,express,python,django,mysql,postgres,mongo" />
+    <img src="https://skillicons.dev/icons?i=md,git,github,html,css,javascript,typescript,react,vite,nodejs,python,django,mysql,postgres,mongo" />
   </a>
 </p>
 
