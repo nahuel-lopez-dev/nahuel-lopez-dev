@@ -36,9 +36,9 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ## `⚙️ I use daily:` 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuel-devone&layout=compact&theme=github_dark&hide_border=true)](https://github.com/nahuel-devone)
 
-<p align="start">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,typescript,react,nodejs,python,django,mysql,postgres,mongo" />
+    <img src="https://skillicons.dev/icons?i=md,git,github,html,css,javascript,typescript,react,vite,nodejs,express,python,django,mysql,postgres,mongo" />
   </a>
 </p>
 
