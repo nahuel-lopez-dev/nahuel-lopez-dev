@@ -1,8 +1,10 @@
 <div align="center">
   <img src="./portada-data-analyst-fs-stack.png" alt="Logo" width="1150">
+  <!-- <img src="./insignia-github.png" width="150">
+  <img src="./insignia-portafolio.png" width="150"> -->
 </div>
 
-<p align="center"><strong>{Open for hiring}</strong></p>
+<!-- <p align="center"><strong>{Open for hiring}</strong></p> -->
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=7000&pause=1000&color=6785C1&repeat=false&width=435&lines=Hello+world!+I+am...+Iron+Man." alt="Typing SVG" /></a>
