@@ -14,16 +14,16 @@
 
 <div>
   <p>
-    I'm from Buenos Aires (Argentina), and I'm a Full Stack JavaScript and Python Developer, Data Analyst, JavaScript Tutor, and Math Teacher.
-    <br>
-    My goal is to work in teams where I can apply my knowledge and make a career, to continue growing professionally while strengthening my stack and learning new technologies.
+    I'm from Buenos Aires (Argentina), and I'm a Data Engineer, Full Stack Python and JavaScript Developer, JavaScript Tutor, and Math Teacher.
+    <!-- <br>
+    My goal is to work in teams where I can apply my knowledge and make a career, to continue growing professionally while strengthening my stack and learning new technologies. -->
   </p>
 </div>
 
 - 💡 I like to explore *`new technologies` and `solve problems`.*
-- 🔭 I’m currently working on *`Web Development`*, *`Backend Development`* and *`Data Analysis with Python`*
-- 🌱 I’m currently mastering my skills in *`Javascript`*, *`TypeScript`* and *`Python`*  
-- 👨🏻‍💻👩🏻‍💻 I’m looking to collaborate on *`Javascript or Python projects`*
+- 🌱 I’m currently mastering my skills in *`Data Engineering`*, *`Python`* and *`TypeScript`*. 
+- 🔭 I’m currently working on *`Data Engineering`*, *`Web Development`* and *`Backend Development`*.  
+<!-- - 👨🏻‍💻👩🏻‍💻 I’m looking to collaborate on *`Javascript or Python projects`* -->
 
 ## `📊 GitHub Analytics:`
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nahuel-DevOne?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
