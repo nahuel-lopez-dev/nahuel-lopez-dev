@@ -7,7 +7,7 @@
 <!-- <p align="center"><strong>{Open for hiring}</strong></p> -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=7000&pause=1000&color=6785C1&repeat=false&width=435&lines=Hello+world!+I+am...+Iron+Man." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=C2D9F8&width=435&lines=Hello+World!+I+am+Nahuel;A+passionate+Data+Engineer;and+Full+Stack+Developer." alt="Typing SVG" /></a>
 </p>  
 
 ## `👨🏻‍💻 About me:`
