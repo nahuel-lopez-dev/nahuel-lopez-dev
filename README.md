@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./LinkedIn-GitHub%20Banner.png" alt="Logo" width="1150">
+  <img src="./GitHub-Banner.png" alt="Logo" width="1150">
   <!-- <img src="./insignia-github.png" width="150">
   <img src="./insignia-portafolio.png" width="150"> -->
 </div>
