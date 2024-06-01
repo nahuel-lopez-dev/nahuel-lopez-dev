@@ -48,21 +48,20 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ## `🛠 Tech Stack:`
 ### Tools:
 
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=lightblue)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=lightgrey&link=https://github.com/Nahuel-DevOne)](https://github.com/Nahuel-DevOne)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker&logoColor=blue)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=lightblue)\
 ![Visual Studio](https://img.shields.io/badge/-VSCODE-05122A?style=flat&logo=Visual-Studio-Code&logoColor=007ACC&link=https://code.visualstudio.com/)&nbsp;
-![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)\
-![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=google-colab)&nbsp;
+![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
 ![Jupiter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=google-colab)&nbsp;
 
 ### Front-end:
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=F05032&link=https://developer.mozilla.org/es/docs/Glossary/HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass&logoColor=cc6699)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss&link=https://getbootstrap.com/)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB)&nbsp;
@@ -87,10 +86,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=316192)&nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft_SQL_Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)\
 ![NoSQL](https://img.shields.io/badge/-NoSQL:-05122A?style=flat&logo=NoSQL&logoColor=lightgreen)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB&logoColor=lightgreen)&nbsp;
-![Mongo_Atlas](https://img.shields.io/badge/-Mongo_Atlas-05122A?style=flat&logo=mongodb&logoColor=lightgreen)&nbsp;
-![ODM](https://img.shields.io/badge/-ODM:-05122A?style=flat&logo=sql&logoColor=FFA611)&nbsp;
-![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose&logoColor=a43433)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB&logoColor=lightgreen)
 
 ### Data Science:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=blue)&nbsp;
@@ -102,6 +98,14 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=c27f35)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=d00b11)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-Power_BI-05122A?style=flat&logo=power-bi&logoColor=yellow)
+
+### Data Engineering:
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=blue)&nbsp;
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-05122A?style=flat&logo=apachespark&logoColor=de5b1a)
+![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=apachespark&logoColor=de5b1a)&nbsp;
+![SparkSQL](https://img.shields.io/badge/-SparkSQL-05122A?style=flat&logo=apachespark&logoColor=de5b1a)\
+![Astro](https://img.shields.io/badge/Astro-05122A?style=flat&logo=astro&logoColor=232C2052)&nbsp;
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-05122A?style=flat&logo=Apache%20Airflow&logoColor=lightblue)
 
 
 <!-- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
