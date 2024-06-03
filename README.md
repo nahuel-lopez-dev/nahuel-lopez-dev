@@ -1,7 +1,5 @@
 <div align="center">
   <img src="./GitHub-Banner.png" alt="Logo" width="1150">
-  <!-- <img src="./insignia-github.png" width="150">
-  <img src="./insignia-portafolio.png" width="150"> -->
 </div>
 
 <!-- <p align="center"><strong>{Open for hiring}</strong></p> -->
@@ -10,22 +8,19 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=C2D9F8&width=435&lines=Hello+World!+I+am+Nahuel;A+passionate+Data+Engineer;and+Full+Stack+Developer." alt="Typing SVG" /></a>
 </p>  
 
-## `👨🏻‍💻 About me:`
+## 👨🏻‍💻 About me:
 
 <div>
   <p>
     I'm from Buenos Aires (Argentina), and I'm a Data Engineer, Full Stack Python and JavaScript Developer, JavaScript and backend Tutor.
-    <!-- <br>
-    My goal is to work in teams where I can apply my knowledge and make a career, to continue growing professionally while strengthening my stack and learning new technologies. -->
   </p>
 </div>
 
 - 💡 I like to explore *`new technologies` and `solve problems`.*
 - 🌱 I’m currently mastering my skills in *`Data Engineering`*, *`Python`* and *`SQL`*. 
-- 🔭 I’m currently working on *`Data Engineering`*, *`Data Science`* and *`Backend Development`*.  
-<!-- - 👨🏻‍💻👩🏻‍💻 I’m looking to collaborate on *`Javascript or Python projects`* -->
+- 🔭 I’m currently working on *`Data Engineering`*, *`Data Science`* and *`Backend Development`*. 
 
-## `📊 GitHub Analytics:`
+## 📊 GitHub Analytics:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nahuel-DevOne?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nahuel-DevOne&theme=dark)](https://git.io/streak-stats)
@@ -35,28 +30,71 @@ All inbuilt themes :-
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, github_dark
 -->
 
-## `⚙️ I use daily:` 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuel-devone&layout=compact&theme=github_dark&hide_border=true)](https://github.com/nahuel-devone) -->
+## ⚙️ I use daily: 
 [![Top Langs](https://github-readme-stats-navy-pi-96.vercel.app/api/top-langs/?username=nahuel-devone&layout=compact&theme=github_dark&hide_border=true)](https://github.com/nahuel-devone)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,git,github,html,css,javascript,typescript,react,vite,nodejs,python,django,mysql,postgres,mongo" />
+    <img src="https://skillicons.dev/icons?i=vscode,md,git,github,docker,html,css,javascript,py,flask,mysql,postgres,mongodb,azure&theme=dark" />
   </a>
 </p>
 
-## `🛠 Tech Stack:`
+## 🛠 Tech Stack:
 ### Tools:
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=lightgrey&link=https://github.com/Nahuel-DevOne)](https://github.com/Nahuel-DevOne)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker&logoColor=blue)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=lightblue)\
+![GitHub Actions](https://img.shields.io/badge/Github%20Actions-05122A?style=flat&logo=githubactions&logoColor=lightgrey)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker&logoColor=blue)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=lightblue)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-VSCODE-05122A?style=flat&logo=Visual-Studio-Code&logoColor=007ACC&link=https://code.visualstudio.com/)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
 ![Jupiter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
-![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=google-colab)&nbsp;
+![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=google-colab)
+
+### Data Engineering:
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=blue)&nbsp;
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-05122A?style=flat&logo=apachespark&logoColor=de5b1a)&nbsp;
+![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=apachespark&logoColor=de5b1a)&nbsp;
+![SparkSQL](https://img.shields.io/badge/-SparkSQL-05122A?style=flat&logo=apachespark&logoColor=de5b1a)\
+![Astro](https://img.shields.io/badge/Astro-05122A?style=flat&logo=astro&logoColor=232C2052)&nbsp;
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-05122A?style=flat&logo=Apache%20Airflow&logoColor=lightblue)&nbsp;
+![Snowflake](https://img.shields.io/badge/-Snowflake:-05122A?style=flat&logo=snowflake&logoColor=white)&nbsp;
+![Databricks](https://img.shields.io/badge/Databricks-05122A?style=flat&logo=Databricks&logoColor=FF3621)
+![Azure](https://img.shields.io/badge/azure-05122A?style=flat&logo=microsoftazure&logoColor=0078d3)
+
+<!-- ![DBT](https://img.shields.io/badge/dbt-05122A?style=flat&logo=dbt&logoColor=FF694B) -->
+
+### Data Science & Machine Learning:
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=blue)&nbsp;
+![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy&logoColor=55a6ca)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=ffffff)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib&logoColor=white)&nbsp;
+![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn&logoColor=white)&nbsp;
+![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-05122A?style=flat&logo=scikit-learn&logoColor=fd9a34)&nbsp;
+![PowerBI](https://img.shields.io/badge/-Power_BI-05122A?style=flat&logo=power-bi&logoColor=yellow)
+<!-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=c27f35)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=d00b11)&nbsp; -->
+
+### Databases:
+
+![SQL](https://img.shields.io/badge/-SQL:-05122A?style=flat&logo=sql&logoColor=FFA611)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=FFA611)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=316192)&nbsp;
+![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft_SQL_Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)\
+![NoSQL](https://img.shields.io/badge/-NoSQL:-05122A?style=flat&logo=NoSQL&logoColor=lightgreen)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB&logoColor=lightgreen)&nbsp;
+![Mongo Atlas](https://img.shields.io/badge/-Mongo_Atlas-05122A?style=flat&logo=mongoDB&logoColor=lightgreen)
+
+### Backend:
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=blue)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=darkgreen)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)\
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=darkgreen)&nbsp;
+![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=darkred)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&logoColor=lightgrey)&nbsp;
 
 ### Front-end:
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=F05032&link=https://developer.mozilla.org/es/docs/Glossary/HTML5)&nbsp;
@@ -67,46 +105,6 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&logoColor=FFA611)
 
-### Backend:
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=blue)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=darkgreen)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)\
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=darkgreen)&nbsp;
-![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=darkred)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&logoColor=lightgrey)&nbsp;
-![EJS](https://img.shields.io/badge/-EJS-05122A?style=flat)&nbsp;
-![pug](https://img.shields.io/badge/-pug-05122A?style=flat&logo=pug&logoColor=A86454)&nbsp;
-![Handlebars](https://img.shields.io/badge/-Handlebars-05122A?style=flat&logo=handlebars.js&logoColor=A86454)
-
-### Databases:
-
-![SQL](https://img.shields.io/badge/-SQL:-05122A?style=flat&logo=sql&logoColor=FFA611)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=FFA611)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=316192)&nbsp;
-![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft_SQL_Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)\
-![NoSQL](https://img.shields.io/badge/-NoSQL:-05122A?style=flat&logo=NoSQL&logoColor=lightgreen)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB&logoColor=lightgreen)
-
-### Data Science:
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=blue)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy&logoColor=55a6ca)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=ffffff)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib&logoColor=white)&nbsp;
-![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn&logoColor=white)\
-![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-05122A?style=flat&logo=scikit-learn&logoColor=fd9a34)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=c27f35)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=d00b11)&nbsp;
-![PowerBI](https://img.shields.io/badge/-Power_BI-05122A?style=flat&logo=power-bi&logoColor=yellow)
-
-### Data Engineering:
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=blue)&nbsp;
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-05122A?style=flat&logo=apachespark&logoColor=de5b1a)
-![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=apachespark&logoColor=de5b1a)&nbsp;
-![SparkSQL](https://img.shields.io/badge/-SparkSQL-05122A?style=flat&logo=apachespark&logoColor=de5b1a)\
-![Astro](https://img.shields.io/badge/Astro-05122A?style=flat&logo=astro&logoColor=232C2052)&nbsp;
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-05122A?style=flat&logo=Apache%20Airflow&logoColor=lightblue)
-
 
 <!-- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -114,15 +112,15 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 
 <!-- alternative: How to reach me -->
-## `📫 Connect with Me:`
+## 📫 Connect with Me:
 💬 Feel free to reach out to me
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahuel.developer1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=fff&color=0077B5)](https://www.linkedin.com/in/nahuel-developer/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-lightgray?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://nahuel-devone.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-gray?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://nahuel-devone.github.io/portfolio/)
 [![Linktree](https://img.shields.io/badge/-Linktree-323330?style=for-the-badge&logo=linktree&logoColor=#41e45f)](https://linktr.ee/nahuel.lopez)
 
-### `✔️ Check the Repositories and don't forget to give a star ⭐`
+### ✔️ Check the Repositories and don't forget to give a star ⭐
 Developed with 💙 by *Nahuel DevOne⚡*
 
 
