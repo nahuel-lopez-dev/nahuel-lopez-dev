@@ -1,26 +1,28 @@
-<div align="center">
+<section align="center">
   <img src="./GitHub-Banner.png" alt="Logo" width="1150">
-</div>
-
-<!-- <p align="center"><strong>{Open for hiring}</strong></p> -->
-
-<p align="center">
+  <!-- <p align="center"><strong>{Open for hiring}</strong></p> -->
+  <p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=C2D9F8&width=435&lines=Hello+World!+I+am+Nahuel;A+passionate+Data+Engineer;and+Full+Stack+Developer." alt="Typing SVG" /></a>
-</p>  
+</p>
+</section>
+
 
 ## 👨🏻‍💻 About me:
 
 <div>
-  <p>
-    I'm from Buenos Aires (Argentina), and I'm a Data Engineer, Full Stack Python and JavaScript Developer, JavaScript and backend Tutor.
-  </p>
+  <p>¡Hi, my name is <b><i>Nahuel</i></b> 👋🏽!! <br></p>
+  <p>I am from Buenos Aires, Argentina, and I work as a Data Engineer at NTT Data. In my daily work, I handle both data engineering and data science as well as machine learning. <br>I love the world of data, but I also enjoy development. I am currently studying Systems Engineering, and in my free time, I dedicate a significant portion of my time to learning new technologies, as well as practicing and strengthening my skills as a Data Engineer.</p>
 </div>
 
-- 💡 I like to explore *`new technologies` and `solve problems`.*
-- 🌱 I’m currently mastering my skills in *`Data Engineering`*, *`Python`* and *`SQL`*. 
+A few more things about me:
+
+- 💡 I like to explore *`new technologies`, `solve problems` and `read`.*
+- 💪🏽 I enjoy going to the `gym` and doing `strength training`.
+- 🌱 I’m currently mastering my skills in *`Data Engineering`*, *`Azure`*, *`Python`*, *`SQL`*, and *`Spark`*. 
 - 🔭 I’m currently working on *`Data Engineering`*, *`Data Science`* and *`Backend Development`*. 
 
 ## 📊 GitHub Analytics:
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nahuel-DevOne?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nahuel-DevOne&theme=dark)](https://git.io/streak-stats)
@@ -31,6 +33,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 -->
 
 ## ⚙️ I use daily: 
+
 [![Top Langs](https://github-readme-stats-navy-pi-96.vercel.app/api/top-langs/?username=nahuel-devone&layout=compact&theme=github_dark&hide_border=true)](https://github.com/nahuel-devone)
 
 <p align="center">
@@ -40,6 +43,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 </p>
 
 ## 🛠 Tech Stack:
+
 ### Tools:
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)&nbsp;
@@ -54,6 +58,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=google-colab)
 
 ### Data Engineering:
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=blue)&nbsp;
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-05122A?style=flat&logo=apachespark&logoColor=de5b1a)&nbsp;
 ![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=apachespark&logoColor=de5b1a)&nbsp;
@@ -67,6 +72,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 <!-- ![DBT](https://img.shields.io/badge/dbt-05122A?style=flat&logo=dbt&logoColor=FF694B) -->
 
 ### Data Science & Machine Learning:
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=blue)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy&logoColor=55a6ca)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=ffffff)&nbsp;
@@ -97,6 +103,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&logoColor=lightgrey)&nbsp;
 
 ### Front-end:
+
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=F05032&link=https://developer.mozilla.org/es/docs/Glossary/HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
@@ -115,18 +122,21 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ## 📫 Connect with Me:
 💬 Feel free to reach out to me
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahuel.developer1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=fff&color=0077B5)](https://www.linkedin.com/in/nahuel-developer/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-gray?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://nahuel-devone.github.io/portfolio/)
-[![Linktree](https://img.shields.io/badge/-Linktree-323330?style=for-the-badge&logo=linktree&logoColor=#41e45f)](https://linktr.ee/nahuel.lopez)
+[![Contact Me](https://img.shields.io/badge/Gmail-informational?flat&logo=Mail.Ru&logoColor=fff&color=c6362c)](mailto:nahue.developer1@gmail.com)&nbsp;
+[![LinkedId](https://img.shields.io/badge/LinkedIn-informational?flat&logo=linkedin&logoColor=fff&color=0274b3)](https://www.linkedin.com/in/nahuel-developer/)&nbsp;
+[![Linktree](https://img.shields.io/badge/-Linktree-323330?flat&logo=linktree&logoColor=#41e45f)](https://linktr.ee/nahuel.lopez)&nbsp;
+[![Portfolio](https://img.shields.io/badge/-Portfolio-gray?style=flat&logo=stackoverflow&logoColor=white)](https://nahuel-devone.github.io/portfolio/)
 
-### ✔️ Check the Repositories and don't forget to give a star ⭐
-Developed with 💙 by *Nahuel DevOne⚡*
+**✔️ Check the Repositories and don't forget to give a star ⭐**
+
+Developed with 💙 by [*Nahuel DevOne⚡*](https://linktr.ee/nahuel.lopez)
 
 
 <div align="center"> 
   <!--Contador de visitas-->
   <img src="https://komarev.com/ghpvc/?username=nahuel-devone&label=Profile%20views&color=blue&style=plastic" alt="nahuel-devone" />
 </div>
- 
-***************************************************************
+
+---
+
+******************
