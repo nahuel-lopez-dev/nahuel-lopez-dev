@@ -16,7 +16,7 @@
 
 A few more things about me:
 
-- 💡 I like to explore *`new technologies`, `solve problems` and `read`.*
+- 💡 I like to explore *`new technologies`, `solve problems` and `reading`.*
 - 💪🏽 I enjoy going to the `gym` and doing `strength training`.
 - 🌱 I’m currently mastering my skills in *`Data Engineering`*, *`Azure`*, *`Python`*, *`SQL`*, and *`Spark`*. 
 - 🔭 I’m currently working on *`Data Engineering`*, *`Data Science`* and *`Backend Development`*. 
