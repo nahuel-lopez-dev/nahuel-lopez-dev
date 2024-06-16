@@ -129,10 +129,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 **✔️ Check the Repositories and don't forget to give a star ⭐**
 
 <div align="center">
-  <p>
-  Developed with 💙 by 
-  <a href="https://linktr.ee/nahuel.lopez" text-decoration="none"><i>Nahuel Dev1⚡</i></a>
-  </p>
+  <p>Developed with 💙 by <i><b>Nahuel Dev1⚡</b></i></p>
 </div>
 
 
