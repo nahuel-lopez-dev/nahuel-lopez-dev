@@ -128,7 +128,12 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 **✔️ Check the Repositories and don't forget to give a star ⭐**
 
-Developed with 💙 by [*Nahuel DevOne⚡*](https://linktr.ee/nahuel.lopez)
+<div align="center">
+  <p>
+  Developed with 💙 by 
+  <a href="https://linktr.ee/nahuel.lopez" text-decoration="none"><i>Nahuel Dev1⚡</i></a>
+  </p>
+</div>
 
 
 <div align="center"> 
