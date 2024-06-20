@@ -1,4 +1,5 @@
 <section align="center">
+  <h1><i>GitHub Profile</i></h1>
   <img src="./GitHub-Banner.png" alt="Logo" width="1150">
   <!-- <p align="center"><strong>{Open for hiring}</strong></p> -->
   <p>
