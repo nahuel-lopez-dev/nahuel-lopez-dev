@@ -1,12 +1,14 @@
 <section align="center">
-  <h1><i>GitHub Profile</i></h1>
+<!-- 05122A -->
+<!-- C2D9F8 -->
+  <!-- <h1><i>GitHub Profile</i></h1> -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=05122A&height=120&text=GitHub%20Profile&stroke=de5b1a&fontColor=C2D9F8&strokeWidth=1.3" />
   <img src="./GitHub-Banner.png" alt="Logo" width="1150">
   <!-- <p align="center"><strong>{Open for hiring}</strong></p> -->
   <p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=C2D9F8&width=435&lines=Hello+World!+I+am+Nahuel;A+passionate+Data+Engineer;and+Full+Stack+Developer." alt="Typing SVG" /></a>
 </p>
 </section>
-
 
 ## 👨🏻‍💻 About me:
 
@@ -136,6 +138,9 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
   <img src="https://komarev.com/ghpvc/?username=nahuel-devone&label=Profile%20views&color=blue&style=plastic" alt="nahuel-devone" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C2D9F8&height=80"/>
 
-******************
+
+<!-- ---
+
+****************** -->
