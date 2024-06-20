@@ -1,6 +1,4 @@
 <section align="center">
-<!-- 05122A -->
-<!-- C2D9F8 -->
   <!-- <h1><i>GitHub Profile</i></h1> -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=05122A&height=120&text=GitHub%20Profile&stroke=de5b1a&fontColor=C2D9F8&strokeWidth=1.3" />
   <img src="./GitHub-Banner.png" alt="Logo" width="1150">
@@ -137,6 +135,8 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
   <!--Contador de visitas-->
   <img src="https://komarev.com/ghpvc/?username=nahuel-devone&label=Profile%20views&color=blue&style=plastic" alt="nahuel-devone" />
 </div>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C2D9F8&height=80"/>
 
