@@ -24,9 +24,9 @@ A few more things about me:
 
 ## 📊 GitHub Analytics:
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nahuel-DevOne?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nahuel-lopez-dev?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nahuel-DevOne&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nahuel-lopez-dev&theme=dark)](https://git.io/streak-stats)
 
 <!--
 All inbuilt themes :-
@@ -35,7 +35,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 ## ⚙️ I use daily: 
 
-[![Top Langs](https://github-readme-stats-navy-pi-96.vercel.app/api/top-langs/?username=nahuel-devone&layout=compact&theme=github_dark&hide_border=true)](https://github.com/nahuel-devone)
+[![Top Langs](https://github-readme-stats-navy-pi-96.vercel.app/api/top-langs/?username=nahuel-lopez-dev&layout=compact&theme=github_dark&hide_border=true)](https://github.com/nahuel-lopez-dev)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -48,7 +48,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ### Tools:
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=lightgrey&link=https://github.com/Nahuel-DevOne)](https://github.com/Nahuel-DevOne)&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=lightgrey&link=https://github.com/nahuel-lopez-dev)](https://github.com/Nahuel-DevOne)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-05122A?style=flat&logo=githubactions&logoColor=lightgrey)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
@@ -119,10 +119,10 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 💬 Feel free to reach out to me
 
-[![Contact Me](https://img.shields.io/badge/Gmail-informational?flat&logo=Mail.Ru&logoColor=fff&color=c6362c)](mailto:nahue.developer1@gmail.com)&nbsp;
+[![Contact Me](https://img.shields.io/badge/Gmail-informational?flat&logo=Mail.Ru&logoColor=fff&color=c6362c)](mailto:nahuel.lopez.dev@gmail.com)&nbsp;
 [![LinkedId](https://img.shields.io/badge/LinkedIn-informational?flat&logo=linkedin&logoColor=fff&color=0274b3)](https://www.linkedin.com/in/nahuel-developer/)&nbsp;
 [![Linktree](https://img.shields.io/badge/-Linktree-323330?flat&logo=linktree&logoColor=#41e45f)](https://linktr.ee/nahuel.lopez)&nbsp;
-[![Portfolio](https://img.shields.io/badge/-Portfolio-gray?style=flat&logo=stackoverflow&logoColor=white)](https://nahuel-devone.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-gray?style=flat&logo=stackoverflow&logoColor=white)](https://nahuel-lopez-dev.github.io/portfolio/)
 
 **✔️ Check the Repositories and don't forget to give a star ⭐**
 
@@ -133,7 +133,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <div align="center"> 
   <!--Contador de visitas-->
-  <img src="https://komarev.com/ghpvc/?username=nahuel-devone&label=Profile%20views&color=blue&style=plastic" alt="nahuel-devone" />
+  <img src="https://komarev.com/ghpvc/?username=nahuel-lopez-dev&label=Profile%20views&color=blue&style=plastic" alt="nahuel-lopez-dev" />
 </div>
 
 <br>
