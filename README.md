@@ -131,7 +131,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 **✔️ Check the Repositories and don't forget to give a star ⭐**
 
 <div align="center">
-  <p>Developed with 💙 by <i><b>Nahuel Dev1⚡</b></i></p>
+  <p>Developed with 💙 by <i><b>NaLo Dev♾️</b></i></p>
 </div>
 
 
