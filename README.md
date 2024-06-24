@@ -24,9 +24,11 @@ A few more things about me:
 
 ## 📊 GitHub Analytics:
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nahuel-lopez-dev?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+<!-- blue-green, dark, great-gatsby -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nahuel-lopez-dev&theme=dark)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nahuel-lopez-dev?cardType=level&theme=great-gatsby&preferLogin=false)](https://git.io/awesome-stats-card)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nahuel-lopez-dev&theme=great-gatsby)](https://git.io/streak-stats)
 
 <!--
 All inbuilt themes :-
@@ -35,7 +37,9 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 ## ⚙️ I use daily: 
 
-[![Top Langs](https://github-readme-stats-navy-pi-96.vercel.app/api/top-langs/?username=nahuel-lopez-dev&layout=compact&theme=github_dark&hide_border=true)](https://github.com/nahuel-lopez-dev)
+<!-- github_dark, highcontrast, great-gatsby -->
+
+[![Top Langs](https://github-readme-stats-navy-pi-96.vercel.app/api/top-langs/?username=nahuel-lopez-dev&layout=compact&theme=great-gatsby&hide_border=false)](https://github.com/nahuel-lopez-dev)
 
 <p align="center">
   <a href="https://skillicons.dev">
