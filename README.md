@@ -12,7 +12,7 @@
 
 <div>
   <p>¡Hi, my name is <b><i>Nahuel</i></b> 👋🏽!! <br></p>
-  <p>I am from Buenos Aires, Argentina, and I work as a Data Engineer at NTT Data. In my daily work, I handle both data engineering and data science as well as machine learning. <br>I love the world of data, but I also enjoy development. I am currently studying Systems Engineering, and in my free time, I dedicate a significant portion of my time to learning new technologies, as well as practicing and strengthening my skills as a Data Engineer.</p>
+  <p>I am from Buenos Aires, Argentina, and I work as a Data Engineer. In my daily work, I handle both data engineering and data science as well as machine learning. <br>I love the world of data, but I also enjoy development. I am currently studying Systems Engineering, and in my free time, I dedicate a significant portion of my time to learning new technologies, as well as practicing and strengthening my skills as a Data Engineer.</p>
 </div>
 
 A few more things about me:
