@@ -1,7 +1,7 @@
 <section align="center">
   <!-- <h1><i>GitHub Profile</i></h1> -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=05122A&height=120&text=GitHub%20Profile&stroke=de5b1a&fontColor=C2D9F8&strokeWidth=1.3" />
-  <img src="./LinkedIn-GitHub Banner.png" alt="Logo" width="1150">
+  <img src="./LinkedIn-GitHub-Banner.png" alt="Logo" width="1150">
   <!-- <p align="center"><strong>{Open for hiring}</strong></p> -->
   <p align="start">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=C2D9F8&width=435&lines=Hello+World!+I+am+Nahuel.;A+passionate+Data+Engineer;and+Python+Developer." alt="Typing SVG" /></a>
@@ -131,7 +131,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 **✔️ Check the Repositories and don't forget to give a star ⭐**
 
 <div align="center">
-  <p>Developed with 💙 by <i><b>NaLo Dev♾️</b></i></p>
+  <p>Developed with 💙 by <i><b>NaLo Dev ထ</b></i></p>
 </div>
 
 
