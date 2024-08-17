@@ -70,10 +70,10 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ![SparkSQL](https://img.shields.io/badge/-SparkSQL-05122A?style=flat&logo=apachespark&logoColor=de5b1a)\
 ![Astro](https://img.shields.io/badge/Astro-05122A?style=flat&logo=astro)&nbsp;
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-05122A?style=flat&logo=Apache%20Airflow)&nbsp;
-![Snowflake](https://img.shields.io/badge/-Snowflake-05122A?style=flat&logo=snowflake)&nbsp;
-![Databricks](https://img.shields.io/badge/Databricks-05122A?style=flat&logo=Databricks)
-![Azure](https://img.shields.io/badge/azure-05122A?style=flat&logo=microsoftazure&logoColor=0078d3)
+![Databricks](https://img.shields.io/badge/Databricks-05122A?style=flat&logo=Databricks)&nbsp;
+![Azure](https://img.shields.io/badge/Microsoft_Azure-05122A?style=flat&logo=microsoftazure&logoColor=0078d3)
 
+<!-- ![Snowflake](https://img.shields.io/badge/-Snowflake-05122A?style=flat&logo=snowflake)&nbsp; -->
 <!-- ![DBT](https://img.shields.io/badge/dbt-05122A?style=flat&logo=dbt&logoColor=FF694B) -->
 
 ### Data Science & Machine Learning:
@@ -82,7 +82,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy&logoColor=55a6ca)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=ffffff)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib&logoColor=white)&nbsp;
-![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn&logoColor=white)&nbsp;
+![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn&logoColor=white)\
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-05122A?style=flat&logo=scikit-learn)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-Power_BI-05122A?style=flat&logo=power-bi)
 <!-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=c27f35)&nbsp;
