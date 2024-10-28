@@ -12,7 +12,8 @@
 
 <div>
   <p>¡Hi, my name is <b><i>Nahuel</i></b> 👋🏽!! <br></p>
-  <p>I am from Buenos Aires, Argentina, and I work as a Data Engineer. In my daily work, I handle both data engineering and data science as well as machine learning. <br>I love the world of data, but I also enjoy development. I am currently studying Systems Engineering, and in my free time, I dedicate a significant portion of my time to learning new technologies, as well as practicing and strengthening my skills as a Data Engineer.</p>
+  <p>I work as a Data Engineer, but in my daily work, I handle both data engineering and data science as well as machine learning. 
+  <br>I am from Buenos Aires, Argentina, and I love the world of data, but I also enjoy development. I am currently studying Systems Engineering, and in my free time, I dedicate a significant portion of my time to learning new technologies, as well as practicing and strengthening my skills as a Data Engineer.</p>
 </div>
 
 A few more things about me:
@@ -43,7 +44,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,md,git,github,docker,html,css,bootstrap,javascript,py,flask,mysql,postgres,mongodb,azure&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=vscode,md,git,github,docker,html,css,py,fastapi,mysql,azure&theme=dark"/>
   </a>
 </p>
 
@@ -67,14 +68,19 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=blue)&nbsp;
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-05122A?style=flat&logo=apachespark)&nbsp;
 ![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=apachespark&logoColor=de5b1a)&nbsp;
-![SparkSQL](https://img.shields.io/badge/-SparkSQL-05122A?style=flat&logo=apachespark&logoColor=de5b1a)\
-![Astro](https://img.shields.io/badge/Astro-05122A?style=flat&logo=astro)&nbsp;
+![Spark SQL](https://img.shields.io/badge/-Spark_SQL-05122A?style=flat&logo=apachespark&logoColor=de5b1a)\
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-05122A?style=flat&logo=Apache%20Airflow)&nbsp;
+![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-05122A?style=flat&logo=Apache%20nifi)&nbsp;
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-05122A?style=flat&logo=Apache%20hive)&nbsp;
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-05122A?style=flat&logo=Apache%20Iceberg)\
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-05122A?style=flat&logo=microsoft%20azure&logoColor=0078d3)&nbsp;
 ![Databricks](https://img.shields.io/badge/Databricks-05122A?style=flat&logo=Databricks)&nbsp;
-![Azure](https://img.shields.io/badge/Microsoft_Azure-05122A?style=flat&logo=microsoftazure&logoColor=0078d3)
+![Cloudera](https://img.shields.io/badge/Cloudera-05122A?style=flat&logo=Cloudera)&nbsp;
 
+<!-- ![Astro](https://img.shields.io/badge/Astro-05122A?style=flat&logo=astro)&nbsp; -->
 <!-- ![Snowflake](https://img.shields.io/badge/-Snowflake-05122A?style=flat&logo=snowflake)&nbsp; -->
 <!-- ![DBT](https://img.shields.io/badge/dbt-05122A?style=flat&logo=dbt&logoColor=FF694B) -->
+<!-- ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-05122A?style=flat&logo=Apache%20kafka) -->
 
 ### Data Science & Machine Learning:
 
